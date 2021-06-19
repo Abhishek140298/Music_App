@@ -1,0 +1,18 @@
+.home_main_div{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	
+
+height: 100vh;
+
+}
+.music_button{
+	
+margin: 10px;
+background-color: aquamarine;
+padding: 20px;
+border-radius: 5%;
+cursor: pointer;
+}

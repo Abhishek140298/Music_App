@@ -1,0 +1,29 @@
+.nav_main_div{
+	background-color:rgb(170, 170, 238);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-right: 70px;
+	padding-left: 30px;
+}
+.search_div{
+	background-color: white;
+	width: 30vw;
+	height: 30px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+input{
+	
+	width:27vw;
+	height: 25px;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+}
+.search_icon{
+	
+}

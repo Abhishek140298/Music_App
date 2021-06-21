@@ -1,6 +1,10 @@
 import React from 'react';
 import './WayToSong.css';
 export default class WayToSong extends React.Component {
+	constructor(){
+		super();
+		this.state={mouseOnImage:false,}
+	}
   render() {
     return (
       <div className='song_main_div'>
